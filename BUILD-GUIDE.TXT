@@ -1,0 +1,12 @@
+FORMAT:
+
+YEAR 2 digits, MONTH 2 digits, DAY 2 DIGITs, INCREMENT 1 digit
+
+Example:
+
+2306130 would be:
+
+YEAR 23 (2023)
+MONTH 06 (June)
+DAY 13
+INCREMENT 0 (First build)
